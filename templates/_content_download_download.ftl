@@ -7,12 +7,14 @@
 <#macro layout>
     <@parent.layout>
         <#assign pom = data.get('pom.yml')>
-        <div class="sect1">
-            <h2 id="_new_home">Drools has a new home at Apache KIE (Incubating) </h2>
-            <div class="sectionbody">
-                <p>For the latest information, code and releases take a look at the new project home at <a href="https://kie.apache.org/">kie.apache.org</a></p>
-            </div>
+        <div class="alert alert-info alert-dismissible" role="alert" id="release-version-alert">
+            <i class="fas fa-info-circle"></i>
+            Drools has a new home at Apache KIE (Incubating)
+            <br/><a class="alert-link"
+                    href="https://kie.apache.org/">For the latest information, code and releases take a look at the new project home at kie.apache.org</a>
+            <button class="btn-close" data-bs-dismiss="alert" type="button" aria-label="Close"></button>
         </div>
+        <br/>
         <div class="sect1">
             <h2 id="_10x">10.x versions:</h2>
             <div class="sectionbody">
@@ -20,6 +22,8 @@
                     <ul>
                         <li>
                             <p><a href="https://kie.apache.org/docs/start/download/">Downloads</a></p>
+                        </li>
+                        <li>
                             <p><a href="https://kie.apache.org/docs/documentation/">Documentation</a></p>
                         </li>
                     </ul>

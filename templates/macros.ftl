@@ -12,7 +12,6 @@
                     <img alt="Download" src="/download/download.png">
                     <div>
                         <span>Try ${config.title}</span><br>
-                        <span class="small">${pom.latestFinal.version}</span>
                     </div>
                 </a>
             </#if>
@@ -247,7 +246,6 @@
                 <img alt="Download" src="${content.rootpath}download/download.png">
                 <div>
                     <span>Try Drools</span><br/>
-                    <span class="small">Download ${pom.latestFinal.version}</span>
                 </div>
             </a>
         </div>
@@ -270,11 +268,11 @@
     <div class="card border-0">
         <div class="card-body">
             <a class="btn btn-lg btn-light w-100"
-               href="${pom.latestFinal.documentationHtmlSingle}#quickStart">
+               href="https://kie.apache.org/docs/10.1.x/drools/drools/introduction/index.html">
                 <img alt="Documentation" src="${content.rootpath}learn/documentation.png">
                 <div>
                     <span>Get started</span><br/>
-                    <span class="small">User guide ${pom.latestFinal.version}</span>
+                    <span class="small">User guide 10.1.0</span>
                 </div>
             </a>
         </div>

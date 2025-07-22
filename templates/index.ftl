@@ -12,11 +12,12 @@
     googleWebmasterToolsVerification=true>
         <div class="alert alert-info alert-dismissible" role="alert" id="release-version-alert">
             <i class="fas fa-info-circle"></i>
-            ${pom.latestFinal.releaseDate?date?string.iso}:
+            2025-07-10:
             <a class="alert-link"
-               href="https://kie.apache.org/blog/kie_10_0_0_release">Drools 10.0.0.Final has been released by KIE Apache (Incubating) community.</a>
+               href="https://kie.apache.org/blog/kie_10_1_0_release">Drools 10.1.0 has been released by KIE Apache (Incubating) community.</a>
             <button class="btn-close" data-bs-dismiss="alert" type="button" aria-label="Close"></button>
         </div>
+        <br/>
         <div class="row">
             <div class="col-md-8" style="margin-top: -17px;margin-bottom: 20px">
                 <p>
