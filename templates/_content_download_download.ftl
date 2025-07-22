@@ -14,7 +14,21 @@
             </div>
         </div>
         <div class="sect1">
-            <h2 id="_latest_final_version_pom_latestfinal_version">Latest final version: ${pom.latestFinal.version}</h2>
+            <h2 id="_10x">10.x versions:</h2>
+            <div class="sectionbody">
+                <div class="ulist">
+                    <ul>
+                        <li>
+                            <p><a href="https://kie.apache.org/docs/start/download/">Downloads</a></p>
+                            <p><a href="https://kie.apache.org/docs/documentation/">Documentation</a></p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <br/>
+        <div class="sect1">
+            <h2 id="_latest_final_version_pom_latestfinal_version">Latest 8.x version: ${pom.latestFinal.version}</h2>
             <div class="sectionbody">
                 <div class="ulist">
                     <ul>

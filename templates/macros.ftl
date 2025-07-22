@@ -22,10 +22,6 @@
                     <img alt="Download" src="/download/download.png">
                     <div>
                         <span>Try ${config.title}</span><br>
-                        <span class="small">${pom.latest.version}</span>
-                    </div>
-                    <div class="small">
-                        ${pom.latest.releaseDate?string("EEE d MMMM yyyy")}
                     </div>
                 </a>
             </#if>

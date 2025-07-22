@@ -14,7 +14,38 @@
             </div>
         </div>
         <div class="sect1">
-            <h2 id="_final_releases">Final releases</h2>
+            <h2 id="_latest_10_x_releases">10.x releases</h2>
+            <div class="sectionbody">
+                <div class="ulist">
+                    <ul>
+                        <li>
+                            <p><strong>Documentation for Drools 10.1.0</strong></p>
+                            <div class="ulist">
+                                <ul>
+                                    <li>
+                                        <p><span class="image"><img src="documentation.png" alt="documentation"></span>
+                                            <strong>Reference manual Drools 10.1.0</strong>:
+                                            <a href="https://kie.apache.org/docs/10.1.x/drools">Drools User Guide</a></p>
+                                    </li>
+                                    <li>
+                                        <p><strong>NB!
+                                                There might be newer versions!</strong>:
+                                            <a href="https://kie.apache.org/docs/10.1.x/drools">List of all 10.x versions</a></p>
+                                    </li>
+                                    <li>
+                                        <p>Container images:
+                                            <a href="https://kie.apache.org/docs/start/download#container-images">10.x versions</a></p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <hr>
+            </div>
+        </div>
+        <div class="sect1">
+            <h2 id="_final_releases">Latest 8.x releases</h2>
             <div class="sectionbody">
                 <div class="ulist">
                     <ul>
